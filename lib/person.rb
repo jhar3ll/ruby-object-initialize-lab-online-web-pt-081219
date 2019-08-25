@@ -9,7 +9,7 @@ class Person
   end
   
   def name 
-    @name 
+   return @name 
   end
 end
   
